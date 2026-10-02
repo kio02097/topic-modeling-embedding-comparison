@@ -1,0 +1,20 @@
+# Candidate compatibility ranges; not the original environment or a tested lockfile.
+# After a successful full run, archive pip freeze with its run metadata.
+bertopic>=0.16,<0.18
+sentence-transformers>=3,<4
+transformers>=4.45,<5
+torch>=2.3,<3
+datasets>=3,<4
+numpy>=1.26,<2
+scipy>=1.12,<1.14
+pandas>=2.2,<3
+scikit-learn>=1.5,<1.7
+gensim>=4.3,<4.4
+umap-learn>=0.5.6,<0.6
+hdbscan>=0.8.38,<0.9
+spacy>=3.7,<3.8
+nltk>=3.9,<4
+wordcloud>=1.9,<2
+matplotlib>=3.8,<4
+accelerate>=0.34,<2
+sentencepiece>=0.2,<0.3
